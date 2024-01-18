@@ -30,3 +30,10 @@ form select, button, input{
     outline: none;
     border-radius: 075rem;
 }
+
+form input{
+    height: 2rem;
+    border: 1px solid rgb(119, 119, 119);
+    font-size: 1rem;
+    padding-left: .5rem;
+}
