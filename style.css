@@ -17,7 +17,7 @@ body{
     padding: 2rem;
     min-height: 45vh;
     border-radius: 1rem;
-    width: 30vw;
+    width: 25vw;
 }
 
 form{
@@ -58,7 +58,7 @@ form input{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 6rem;
+    width: 8rem;
     border: 1px solid bisque;
     border-radius: .5rem;
 }
